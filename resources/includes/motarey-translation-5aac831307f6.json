@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "motarey-translation",
+  "private_key_id": "5aac831307f6976d8a5b5e8a0faa51a3ea5680e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCHJvYrtUfudLHf\n50TJUwBD9fidd58sPv9u6/8OOgeHoDbayrr9JX/hEbN1/ezLWfCo4t6dQ6/povR9\ni3U8cr3yLs4sNfkIuehRCHfx6dBWQhoOOwxwiWMtbxHShs2UCY8rpratoofCrmZQ\nfYBWseJyVn1UGnjUZIF847QDbg+6qVZtsSKc/FjRLlHEbXK2NBipAYuLktzTwi3U\nBzSxOujgchx1zgnThoXUUUcO7fNQBCQOe2TR72hz95UBgRvz9V87bYn2EKhYoLA7\nPSzlHaIz8Gq0+lb9B/Mhhv/nlMYP0scQnNhLsYaRHpnY1jZfNbC9OY3tjAdW0w7X\nBnK92rnvAgMBAAECggEADV8Zc/GXkEwTXSewcoq3uAGZ+1pecS46b2sB7RJotE5x\nnuv33BvdrxLlQoNA7k2TteHcTIrp2J+6uMEXdEeV62QeGdmtLePWzE2eMF0Fs8MO\neOH2tRuiqFgY109m/4KCm7r+z+cIr4Y5sTT5gZpP4SgVdkC4O6tF9GlC4iP9gmYh\nzDPRODCOsEKp1E8ONCfdsmcK0iO70851AUrIUM5TSOQGGM1gw2eNIUJaLg4Si+7W\nrP8bofICyNziI+pMqvl9BWJI2EDU3rNZQsvArhP6nG//gv8Lfgi3TLpDQVqLIfqj\niO5RWVOxvhAtsd2fxwyfa+IGuqUpJWDbbjSqi1m3gQKBgQC7bLgKcHSvvFn3ALXm\nFSlI2bqDWGFUG2FX7QN+H5wcvalt6jju4Ix6sUpOfSw7Sk274AWm0DXJmEx9HFdT\n/sogMPmMu9IvEu8KQsmovfruxtbVUM2PUT3TaQyd2Q6Oj1WyVhzEf7ZVhN/43fZH\nNAp4M0ixAhx1hWY6oYzARAogvwKBgQC4mhlBZIYgIE4IrtXuGe7JFlDGdKHmjBGG\nKLh58OdwuhsAehLA5lSDwt64wC1mxL/wAWFYQpF6a951g7RrC9NH7eVK/EU4YfRL\njS27q8S0/S84uk1fZYDzcao8U8iG6y1tBt0qFBzd6KKbNsGMHyaLHWNBzwNl0GYB\nkizBy0uC0QKBgF6b4MMURTK4h0lSCIAeSnrFvYqzwF2ufJLfx5WQ60Lu0mnzg83B\nd+gvOm0obn13Yonl6bRtAdnDkUjOV57EzM83KaFK5ixxCE1LrXQKgnKp2KRRZ5Ji\n1iyzqHS9rsVzwTSGl3rxZN8CdfSwRrNmp6pJaPZBNJB2SEZsahpbvikNAoGAYWUk\nKAUyYqbIpPohcqMKAdwdN+d3N9z0rfS0B9obMbVu45yEYnPjaTUaLx1tlsf9gFIq\nGtfcS1u4HgYj3Up66XtRO3PHzYyYyHevBlIE0Xy3OlXI1qkGFOsGZxfJN63C5L/3\nVekQpd/EUuHb0eLpggI6SRFAeKov92o45PIuX9ECgYAbsKInycIXgsay8XADVzol\nBO7IrCOyxSR/Rcl8DdpJtOvz4P1VaHqq74nLoBSMlWhkqWB4vxUy2C1f+PrLYB2l\nH2KOhRfonNFADM/vFq1Nn4mnxZ/4BtngdnwXMVEf+8D0mH7K/qHfMrfH0EyuZRw0\n2cMPHYF6vpageTO/ApkMLA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "motarey-translation@motarey-translation.iam.gserviceaccount.com",
+  "client_id": "111395342631128893118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/motarey-translation%40motarey-translation.iam.gserviceaccount.com"
+}
